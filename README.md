@@ -5,9 +5,9 @@
 
 ![logo](./images/logo.png)
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/llm-chaser/minimind-notes?style=social)](https://github.com/llm-chaser/minimind-notes/stargazers)  
-[![GitHub pull request](https://img.shields.io/badge/PRs-welcome-blue)](https://github.com/llm-chaser/minimind-notes/pulls)  
-[![License](https://img.shields.io/github/license/llm-chaser/minimind-notes)](LICENSE)
+[![GitHub Repo stars](https://img.shields.io/github/stars/llm-chaser/minimind-notes?style=social)](https://github.com/MLNLP-World/minimind-notes/stargazers)  
+[![GitHub pull request](https://img.shields.io/badge/PRs-welcome-blue)](https://github.com/MLNLP-World/minimind-notes/pulls)  
+[![License](https://img.shields.io/github/license/MLNLP-World/minimind-notes)](LICENSE)
 
 </div>
 
@@ -59,7 +59,7 @@
 <h2 id="项目资源">📖 项目资源</h2>
 
 - 原版项目地址：[MiniMind](https://github.com/jingyaogong/minimind)  
-- 注释增强版：[MiniMind-Notes](https://github.com/llm-chaser/minimind-notes)  
+- 注释增强版：[MiniMind-Notes](https://github.com/MLNLP-World/minimind-notes)  
 - 数据集下载：
   - [MiniMind Dataset @ HuggingFace](https://huggingface.co/datasets/jingyaogong/minimind_dataset/tree/main)  
   - [MiniMind Dataset @ ModelScope](https://www.modelscope.cn/datasets/gongjy/minimind_dataset/files)  
@@ -67,7 +67,7 @@
 
 快速体验：
 ```bash
-git clone https://github.com/llm-chaser/minimind-notes.git
+git clone https://github.com/MLNLP-World/minimind-notes.git
 
 ````
 
